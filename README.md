@@ -1,3 +1,7 @@
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/86435953/123397705-00847b80-d5a3-11eb-9736-28e45334730d.gif)
+
+https://user-images.githubusercontent.com/86435953/123397010-3e34d480-d5a2-11eb-88e3-cf56a841ba00.mp4
+
 # Image Guided Robotic Transcranial Magnetic Stimulation
 
 ## How to run:
