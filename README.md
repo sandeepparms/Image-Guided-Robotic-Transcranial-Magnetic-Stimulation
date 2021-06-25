@@ -1,4 +1,4 @@
-# RNMSS19
+# Image Guided Robotic Transcranial Magnetic Stimulation
 
 ## How to run:
 
