@@ -2,7 +2,6 @@
 
 ## How to run:
 
-Note: run everything in the ros workspace (`cd ~/rnmss19/ros_workspace`), start each node in a new terminal (window or tab) 
 1.  set up the camera and both robots, mount a checkerboard on the UR3
 2.  run the hand eye calibration 
     1.  `roslaunch  hand_eye_calibration hand_eye_auto_requirements.launch`
